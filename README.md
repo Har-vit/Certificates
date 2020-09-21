@@ -1,0 +1,31 @@
+## Ссылки на сертификаты
+
+1. [Linux](https://geekbrains.ru/certificates/724094)
+
+2. [HTML&CSS](https://geekbrains.ru/certificates/721790)
+
+3. [Python](https://geekbrains.ru/certificates/721741)
+
+4. [Алгоритмы и структура данных](https://geekbrains.ru/certificates/768743)
+
+5. [Базы данных](https://geekbrains.ru/certificates/751818)
+
+6. [Библиотеки Python для Data Science](https://geekbrains.ru/certificates/850320)
+
+7. [Введение в Git](https://geekbrains.ru/certificates/702905)
+
+8. [Введение в мат анализ](https://geekbrains.ru/certificates/932104)
+
+9. [Методы сбора и обработки данных из сети интернет](https://geekbrains.ru/certificates/894589)
+
+10. [Основы Git](https://stepik.org/cert/685892)
+
+11. [Язык R для анализа данных](https://geekbrains.ru/certificates/900360)
+
+12. [Анализ данных в R](https://stepik.org/cert/132337)
+
+13. [Анализ данных в R часть 2](https://stepik.org/cert/136209)
+
+14. [Программирование на Python](https://stepik.org/cert/61736)
+
+15. [Программирование на языке C++](https://stepik.org/cert/63056)
