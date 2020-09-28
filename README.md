@@ -22,10 +22,12 @@
 
 11. [Язык R для анализа данных](https://geekbrains.ru/certificates/900360)
 
-12. [Анализ данных в R](https://stepik.org/cert/132337)
+12  [Теория вероятностей и математическая статистика](https://geekbrains.ru/certificates/973843)
 
-13. [Анализ данных в R часть 2](https://stepik.org/cert/136209)
+13. [Анализ данных в R](https://stepik.org/cert/132337)
 
-14. [Программирование на Python](https://stepik.org/cert/61736)
+14. [Анализ данных в R часть 2](https://stepik.org/cert/136209)
 
-15. [Программирование на языке C++](https://stepik.org/cert/63056)
+15. [Программирование на Python](https://stepik.org/cert/61736)
+
+16. [Программирование на языке C++](https://stepik.org/cert/63056)
