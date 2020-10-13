@@ -24,10 +24,12 @@
 
 12  [Теория вероятностей и математическая статистика](https://geekbrains.ru/certificates/973843)
 
-13. [Анализ данных в R](https://stepik.org/cert/132337)
+13  [Линейная алгебра](https://geekbrains.ru/certificates/990400)
 
-14. [Анализ данных в R часть 2](https://stepik.org/cert/136209)
+14. [Анализ данных в R](https://stepik.org/cert/132337)
 
-15. [Программирование на Python](https://stepik.org/cert/61736)
+15. [Анализ данных в R часть 2](https://stepik.org/cert/136209)
 
-16. [Программирование на языке C++](https://stepik.org/cert/63056)
+16. [Программирование на Python](https://stepik.org/cert/61736)
+
+17. [Программирование на языке C++](https://stepik.org/cert/63056)
