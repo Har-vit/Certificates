@@ -33,3 +33,5 @@
 16. [Программирование на Python](https://stepik.org/cert/61736)
 
 17. [Программирование на языке C++](https://stepik.org/cert/63056)
+
+18. [Цифровое производство by Zyfra](https://ru.zyfra.com/certificate/02073.pdf)
