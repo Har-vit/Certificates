@@ -35,3 +35,7 @@
 17. [Программирование на языке C++](https://stepik.org/cert/63056)
 
 18. [Цифровое производство by Zyfra](https://ru.zyfra.com/certificate/02073.pdf)
+
+19. [Алгоритмы анализа данных](https://geekbrains.ru/streams/15944/feedbacks)
+
+20. [Библиотеки Python для Data Science: продолжение](https://geekbrains.ru/streams/14265/feedbacks)
