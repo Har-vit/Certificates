@@ -39,3 +39,5 @@
 19. [Алгоритмы анализа данных](https://geekbrains.ru/certificates/1074104)
 
 20. [Библиотеки Python для Data Science: продолжение](https://geekbrains.ru/certificates/1074106)
+
+21. [Рекомендательные системы](https://geekbrains.ru/certificates/1148203)
