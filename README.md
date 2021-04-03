@@ -41,3 +41,5 @@
 20. [Библиотеки Python для Data Science: продолжение](https://geekbrains.ru/certificates/1074106)
 
 21. [Рекомендательные системы](https://geekbrains.ru/certificates/1148203)
+
+22. [Машинное обучение в бизнесе](https://geekbrains.ru/certificates/1202569)
