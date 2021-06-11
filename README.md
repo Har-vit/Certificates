@@ -45,3 +45,5 @@
 22. [Машинное обучение в бизнесе](https://geekbrains.ru/certificates/1202569)
 
 23. [Введение в нейронные сети](https://gb.ru/certificates/1273024)
+
+24. [Основы статистики by Анатолий Карпов](https://stepik.org/cert/1004005)
