@@ -47,3 +47,5 @@
 23. [Введение в нейронные сети](https://gb.ru/certificates/1273024)
 
 24. [Основы статистики by Анатолий Карпов](https://stepik.org/cert/1004005)
+
+25. [Введение в Data Science и машинное обучение] (https://stepik.org/cert/1024238)
