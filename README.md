@@ -48,4 +48,4 @@
 
 24. [Основы статистики by Анатолий Карпов](https://stepik.org/cert/1004005)
 
-25. [Введение в Data Science и машинное обучение] (https://stepik.org/cert/1024238)
+25. [Введение в Data Science и машинное обучение by Анатолий Карпов](https://stepik.org/cert/1024238)
