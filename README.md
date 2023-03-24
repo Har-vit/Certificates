@@ -55,3 +55,7 @@
 27. [Введение в обработку естественного языка](https://gb.ru/certificates/1371331)
 
 28. [Глубокое обучение в компьютерном зрении. Интерактивный курс](https://gb.ru/certificates/1384695)
+
+29. [HARD ML](https://lab.karpov.courses/certificate/a6529dde-fb83-4a92-ba91-b599c2f6dfad/)
+
+30. [Инженер данных](https://lab.karpov.courses/certificate/cb4089a9-6919-4610-8fb4-91f0bd7199ee/)
