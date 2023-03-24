@@ -27,23 +27,23 @@
 
 14. [Теория вероятностей и математическая статистика](https://geekbrains.ru/certificates/973843)
 
-15. [Базы данных](https://geekbrains.ru/certificates/751818)
+15. [Методы сбора и обработки данных из сети интернет](https://geekbrains.ru/certificates/894589)
 
-16. [Анализ данных в R](https://stepik.org/cert/132337)
+16. [Базы данных](https://geekbrains.ru/certificates/751818)
 
-17. [Анализ данных в R часть 2](https://stepik.org/cert/136209)z
+17. [Анализ данных в R](https://stepik.org/cert/132337)
 
-18. [Язык R для анализа данных](https://geekbrains.ru/certificates/900360)
+18. [Анализ данных в R часть 2](https://stepik.org/cert/136209)
 
-19. [Алгоритмы и структура данных](https://geekbrains.ru/certificates/768743)
+19. [Язык R для анализа данных](https://geekbrains.ru/certificates/900360)
 
-20. [Основы Git](https://stepik.org/cert/685892)
+20. [Алгоритмы и структура данных](https://geekbrains.ru/certificates/768743)
 
-21. [Введение в Git](https://geekbrains.ru/certificates/702905)
+21. [Основы Git](https://stepik.org/cert/685892)
 
-22. [Linux](https://geekbrains.ru/certificates/724094)
+22. [Введение в Git](https://geekbrains.ru/certificates/702905)
 
-23. [Методы сбора и обработки данных из сети интернет](https://geekbrains.ru/certificates/894589)
+23. [Linux](https://geekbrains.ru/certificates/724094)
 
 24. [Python](https://geekbrains.ru/certificates/721741)
 
