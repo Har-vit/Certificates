@@ -57,4 +57,6 @@
 
 29. [Линейная алгебра](https://geekbrains.ru/certificates/990400)
 
-30. [Цифровое производство by Zyfra](https://ru.zyfra.com/certificate/02073.pdf)
+30. [Погружение в A/B-тестирование](https://disk.yandex.ru/i/QnzInDoVVrglHA)
+
+31. [Практический MLOPS](https://disk.yandex.ru/i/WFfTzhHtI3szxQ)
